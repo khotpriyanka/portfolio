@@ -102,7 +102,7 @@ params:
     disableSearch: false
     # searchPlaceholder: "Search"
     menus:
-      disableAbout: false
+      disableAbout: true
       disableExperience: false
       disableEducation: false
       disableProjects: false
@@ -131,13 +131,14 @@ params:
           url: https://github.com/khotpriyanka
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/priyankakhot/
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/piyu_khot/
       
 
   # About
   about:
     enable: true
-    title: "About"
-    # subTitle: "I'm Open to work from December 2023"
+    title: "I'm Open to work from December 2023"
     image: "/images/picture.jpeg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in the intersection of technology and art. 
