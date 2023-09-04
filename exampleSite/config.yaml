@@ -135,8 +135,9 @@ params:
 
   # About
   about:
-    enable: false
-    title: "I'm Open to work from December 2023"
+    enable: true
+    title: "About"
+    subtitle: "I'm Open to work from December 2023"
     image: "/images/picture.jpeg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in the intersection of technology and art. 
