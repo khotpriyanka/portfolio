@@ -165,15 +165,12 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: ""
-        skills:
-          enable: true
-          title: ""
-          items:
-            - "Improved React Native codebase, reducing memory consumption and boosting mobile app performance by 40% in just 3 months."
+        content: "
+         - "Improved React Native codebase, reducing memory consumption and boosting mobile app performance by 40% in just 3 months."
             - "Elevated Leaflet map's UI and user experience by implementing a custom marker feature for geospatial data input and integrating polyline drawing for visualizing connections."
             - "Demonstrated strong problem-solving abilities in mobile and web software development."
             - "Successfully optimized software to enhance product performance."
+       
             
 
       - job: "Software Engineer"
