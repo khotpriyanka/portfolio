@@ -307,7 +307,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: pkhot@umd.edu
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -319,40 +319,13 @@ params:
     recentPosts:
       path: "blogs"
       count: 3
-      title: Recent Posts
+      title: ""
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
-
-  # List pages like blogs and posts
-  listPages:
-    disableFeaturedImage: false
-
-  # Single pages like blog and post
-  singlePages:
-    readTime:
-      enable: true
-      content: "min read"
-    scrollprogress:
-      enable: true
-
-  # For translations
-  terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
-    emailText: "Check out this site"
-
-  datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
+      github: https://github.com/khotpriyanka
+      linkedin: https://www.linkedin.com/in/priyankakhot/
+      instagram: https://www.instagram.com/piyu_khot/  
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
