@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: ""
+title: "Hugo Profile"
 theme: hugo-profile
 
 outputs:
@@ -24,7 +24,16 @@ markup:
 
 Menus:
   main:
-    
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+    - identifier: gallery
+      name: Gallery
+      title: Blog posts
+      url: /gallery
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -112,23 +121,25 @@ params:
     title: "Priyanka."
     subtitle: "I build things for the web"
     content: "A passionate Software Engineer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/display_picture.jpeg
+    image: /images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1r19u4h3aaaNg-ssezIGf4sPKT8NXTiO4/view?usp=sharing"
+      url: "#"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/khotpriyanka
-        - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/priyankakhot/
-
+          url: https://example.com
+        - icon: fab fa-twitter
+          url: https://example.com
+      customIcons:
+        - icon: /fav.png
+          url: "https://example.com"
 
   # About
   about:
