@@ -137,7 +137,7 @@ params:
   about:
     enable: true
     title: "About"
-    subtitle: "I'm Open to work from December 2023"
+    subTitle: "I'm Open to work from December 2023"
     image: "/images/picture.jpeg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in the intersection of technology and art. 
@@ -171,7 +171,7 @@ params:
           - Improved React Native codebase, reducing memory consumption and boosting mobile app performance by 40% in just 3 months.
           - Elevated Leaflet map's UI and user experience by implementing a custom marker feature for geospatial data input and integrating polyline drawing for visualizing connections.
           - Demonstrated strong problem-solving abilities in mobile and web software development.
-          - Successfully optimized software to enhance product performance.
+          - Successfully optimized software to enhance mobile app performance.
 
       - job: "Software Engineer"
         company: "Lodgistics LLC"
