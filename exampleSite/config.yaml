@@ -224,9 +224,16 @@ params:
         date: "2016 - 2020"
         GPA: "8.81 out of 10.0"
         content: |-
-          - Student Volunteer for Association of Computing Machinery
+          - Student Volunteer for PICT ACM Student Chapter (PASC). Conducted Student seminars in the areas of Web Development for more than 800 students. PASC won the Best Student Chapter in India award 3 consecutive times during my tenure.
+          - Data Science Courses: Artificial Intelligence, Data Warehousing and Data Mining, Big Data Analytics, Predictive Analytics, Database Management,
+          - Computer Science Courses: Cloud Computing, Cryptography and Network Security, Computer Programming, Data Structures, Computer Networks, Computer Organization, Compiler Design, Block Chain Technology, IoT (Internet of Things), Operating Systems, Soft Computing, Distributed and Parallel Computing, High Performance Computing, Theory of Computation, Object Oriented Analysis and Design,
+          - Software Management Courses: Software Engineering and Project Management, Software Design Patterns
+          - Other Courses: Personality Development, Communication Skills, Economics, Human Resource Management, Financial Management and Accounting, Operation and Supply Chain Management
+
+
+
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
 
