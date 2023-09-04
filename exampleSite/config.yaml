@@ -1,7 +1,7 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://khot-priyanka.netlify.app/"
 languageCode: "en-us"
 title: ""
-theme: hugo-profile
+theme: 
 
 outputs:
   home:
