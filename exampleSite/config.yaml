@@ -135,7 +135,7 @@ params:
 
   # About
   about:
-    enable: true
+    enable: false
     title: "I'm Open to work from December 2023"
     image: "/images/picture.jpeg"
     content: |-
