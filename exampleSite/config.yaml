@@ -112,8 +112,8 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Priyanka."
+    intro: "Hi there, I'm"
+    title: "Priyanka Khot"
     content: "A passionate Information Systems Graduate Student studying at University of Maryland with a passion for crafting elegant solutions and optimizing software for exceptional performance!"
     image: /images/display_picture.jpeg
     bottomImage:
@@ -137,7 +137,7 @@ params:
   about:
     enable: true
     title: "About"
-    subTitle: "I'm Open to work from December 2023"
+    # subTitle: "I'm Open to work from December 2023"
     image: "/images/picture.jpeg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in the intersection of technology and art. 
@@ -152,6 +152,10 @@ params:
         - "HTML"
         - "SQL"
         - "Python"
+    availability:
+      enable: true
+      title: "Availability"
+      content: "I'll be available to work starting from December 2023."
 
   # Experience
   experience:
