@@ -152,7 +152,8 @@ params:
         - "HTML"
         - "SQL"
         - "Python"
-    availability:
+  
+  availability:
       enable: true
       title: "Availability"
       content: "I'll be available to work starting from December 2023."
