@@ -165,13 +165,12 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "
-         - "Improved React Native codebase, reducing memory consumption and boosting mobile app performance by 40% in just 3 months."
-            - "Elevated Leaflet map's UI and user experience by implementing a custom marker feature for geospatial data input and integrating polyline drawing for visualizing connections."
-            - "Demonstrated strong problem-solving abilities in mobile and web software development."
-            - "Successfully optimized software to enhance product performance."
-       
-            
+        content: |
+
+          - Improved React Native codebase, reducing memory consumption and boosting mobile app performance by 40% in just 3 months.
+          - Elevated Leaflet map's UI and user experience by implementing a custom marker feature for geospatial data input and integrating polyline drawing for visualizing connections.
+          - Demonstrated strong problem-solving abilities in mobile and web software development.
+          - Successfully optimized software to enhance product performance.
 
       - job: "Software Engineer"
         company: "Lodgistics LLC"
@@ -183,15 +182,12 @@ params:
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
-        content: ""
-        skills:
-          enable: true
-          title: ""
-          items:
-            - "Transformed manual account creation into an automated process using React.js and Ruby on Rails, reducing account creation time by 90%."
-            - "Designed and implemented an API with seamless webhook integration for third-party applications, achieving an 88% test accuracy rate."
-            - "Played a vital role in migrating a mobile app from Ionic 3 to Ionic 4 with Angular 16, boosting app responsiveness by 20% through Test-Driven Development (TDD)."
-            - " Proven ability to work effectively as a key member of cross-functional teams, emphasizing teamwork and problem-solving."
+        content: |
+
+          - Transformed manual account creation into an automated process using React.js and Ruby on Rails, reducing account creation time by 90%.
+          - Designed and implemented an API with seamless webhook integration for third-party applications, achieving an 88% test accuracy rate.
+          - Played a vital role in migrating a mobile app from Ionic 3 to Ionic 4 with Angular 16, boosting app responsiveness by 20% through Test-Driven Development (TDD).
+          - Proven ability to work effectively as a key member of cross-functional teams, emphasizing teamwork and problem-solving.
 
       - job: "Junior Software Developer"
         company: "Apple"
