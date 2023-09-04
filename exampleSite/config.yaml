@@ -119,18 +119,16 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1r19u4h3aaaNg-ssezIGf4sPKT8NXTiO4/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/khotpriyanka
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/priyankakhot/
+
 
   # About
   about:
