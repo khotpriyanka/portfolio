@@ -114,8 +114,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Priyanka."
-    subtitle: "I build things for the web"
-    content: "A passionate Software Engineer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "A passionate Information Systems Graduate Student who loves using information to build stories and enhance products.! I live in College Park, MD"
     image: /images/display_picture.jpeg
     bottomImage:
       enable: true
@@ -137,7 +136,7 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "I'm Open to work from December 2023"
     image: "/images/picture.jpeg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in the intersection of technology and art. 
@@ -158,12 +157,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Software Engineer Intern"
+        company: "H3Collaboratory LLC"
+        companyUrl: "https://h3collaboratory.com/"
+        date: "May 2023 - August 2023"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
