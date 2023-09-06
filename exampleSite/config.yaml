@@ -264,7 +264,7 @@ params:
     items:
       - title: Fit Reactor - Fitness Application
         content:  Fit Reactor provides users with workout ideas to build strength, improve endurance, or lose weight, this app has you covered.
-        image: /images/fitreactor.png
+        image: /images/projects/fitreactor.png
         badges:
           - "React"
           - "Javascript"
@@ -275,7 +275,7 @@ params:
 
       - title: React Wheel of Prices
         content: The React Wheel of Prices is a fun and interactive web application built with React.js that puts a delightful spin on decision-making and games of chance. It's a digital version of the classic game show wheel, offering users a unique way to make choices, select prizes, or simply add an element of excitement to their online experiences.
-        image: /images/wheelofprices.png
+        image: /images/projects/wheelofprices.png
         badges:
           - "Code Sandbox"
           - "React"
@@ -285,13 +285,14 @@ params:
 
       - title: Countdown Timer
         content: The Countdown Timer in Python is a lightweight and versatile command-line application designed to help users track time, manage tasks, and stay organized. This simple yet effective tool provides users with the ability to create and customize countdown timers, ensuring they never miss important deadlines or events.
-        image: /images/timer.png
+        image: /images/projects/timer.png
         badges:
-          - "GUI"
-          - "Python"
+          - "Hugo"
+          - "Bootstrap"
+          - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/khotpriyanka/countdown-timer
+            url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
